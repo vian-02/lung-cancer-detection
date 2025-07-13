@@ -1,1 +1,2 @@
 # lung-cancer-detection
+# LUNG CANCER DETECTION PROJECT BY PIYUSH JHA
